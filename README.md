@@ -12,9 +12,9 @@
 
 ## 平台提供教學範例
 
-- [ASP.NET](https://github.com/ptxmotc/Sample-code/tree/master/ASP.NET)
-- [Java](https://github.com/ptxmotc/Sample-code/tree/master/Java)
-- [JavaScript](https://github.com/ptxmotc/Sample-code/tree/master/JavaScript)
+- [ASP.NET](https://github.com/trafficmotc/Sample-code/tree/master/ASP.NET)
+- [Java](https://github.com/trafficmotc/Sample-code/tree/master/Java)
+- [JavaScript](https://github.com/trafficmotc/Sample-code/tree/master/JavaScript)
 
 ## 熱心鄉民提供範例
 
@@ -24,12 +24,12 @@
 
 - PHP 範例程式碼（會員Benyi提供）：[請點我](https://gist.github.com/banqhsia/e157a68f730785c0727481d57e5325e0)
 
-- Node.js範例程式碼（會員NoobTW提供）：[請點我](https://github.com/ptxmotc/Sample-code/tree/master/Node.js)
+- Node.js範例程式碼（會員NoobTW提供）：[請點我](https://github.com/trafficmotc/Sample-code/tree/master/Node.js)
 
-- python範例程式碼（WeselyOng提供）：[請點我](https://github.com/ptxmotc/Sample-code/tree/master/Python3)
+- python範例程式碼（WeselyOng提供）：[請點我](https://github.com/trafficmotc/Sample-code/tree/master/Python3)
 
-- Swift範例程式碼 （會員g78101提供）：[請點我](https://github.com/ptxmotc/Sample-code/tree/master/Swift)
+- Swift範例程式碼 （會員g78101提供）：[請點我](https://github.com/trafficmotc/Sample-code/tree/master/Swift)
 
-- Go範例程式碼 （會員hpcslag提供）：[請點我](https://github.com/ptxmotc/Sample-code/tree/master/Golang)
+- Go範例程式碼 （會員hpcslag提供）：[請點我](https://github.com/trafficmotc/Sample-code/tree/master/Golang)
 
 
