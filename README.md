@@ -1,4 +1,4 @@
-# Traffic Public Transport API 介接範例程式碼說明
+# Traffic API 介接範例程式碼說明
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 熱心鄉民提供範例
 
-除PTX所提供之 Java、JavaScript及 .NET 範例程式碼外，也提供不同種程式語言之範例程式碼供使用者作參考。
+除Traffic所提供之 Java、JavaScript及 .NET 範例程式碼外，也提供不同種程式語言之範例程式碼供使用者作參考。
 
 - CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）：[請點我](https://github.com/txstudio/ptx-api-authorize-httpclient-sample)
 
