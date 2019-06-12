@@ -15,7 +15,7 @@ const getAuthorizationHeader = function() {
 	return { 'Authorization': Authorization, 'X-Date': GMTString};
 }
 
-axios.get('https://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$top=10&$format=JSON', { // 欲呼叫之API網址(此範例為台鐵車站資料)
+axios.get('https://traffic.transportdata.tw/MOTC/v2/Road/Traffic/VD/Freeway?$top=10&$format=JSON', { // 欲呼叫之API網址(此範例為[高速公路局]車輛偵測器基本資料)
 	headers: getAuthorizationHeader(),
 })
 	.then(function(response){
